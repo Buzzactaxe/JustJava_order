@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="name">Name</string>
+    <string name="order" translatable="false">Order</string>
+    <string name="Whipped_Cream" translatable="false">Whipped Cream 1€</string>
+    <string name="Chocolate" translatable="false">Chocolate 2€</string>
+    <string name="toppings" translatable="false">Toppings </string>
+
+    //Strings on PriceMessage on submit order Method
+    <string name="Quantity" translatable="false">Quantity: </string>
+    <string name="order_summery_name">Name: <xliff:g id="name" example="Valiant">%s</xliff:g> </string>
+    <string name="Add_whipped_cream" translatable="false">Add whipped cream?</string>
+    <string name="Add_chocolate" translatable="false">Add Chocolate?</string>
+    <string name="Thank" translatable="false">Thank you for your order!</string>
+    <string name="total" translatable="false">Total: </string>
+
+</resources>
